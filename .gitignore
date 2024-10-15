@@ -1,0 +1,5 @@
+.venv/
+venv/
+chatgpt-ai-template/.next/
+flask-server/venv/
+chatgpt-ai-template/.env
