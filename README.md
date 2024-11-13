@@ -38,5 +38,6 @@
 - **프레임워크**: Next.js, Flask
 - **웹서버**: NGINX
 - **운영체제**: AWS Linux 2023
+- **LLM 모델**: GPT-4o
 - **개발언어**: Typescript, Python
 - **데이터베이스**: MongoDB
