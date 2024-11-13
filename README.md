@@ -26,9 +26,9 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/2b6b83a1-f9af-4eb1-be83-bff10ade97bb" alt="stock-predict" width="700" height="1000">
+<img src="https://github.com/user-attachments/assets/2b6b83a1-f9af-4eb1-be83-bff10ade97bb" alt="stock-predict" width="700">
 
-<img src="https://github.com/user-attachments/assets/0c484809-7eb6-4dcf-9bf1-df5fcd26b5c1" alt="stockpredict4" width="700" height="1000">
+<img src="https://github.com/user-attachments/assets/0c484809-7eb6-4dcf-9bf1-df5fcd26b5c1" alt="stockpredict4" width="700">
 
 
 
