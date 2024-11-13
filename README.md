@@ -26,8 +26,10 @@
 
 ---
 
-![stock-predict2](https://github.com/user-attachments/assets/09ae2fea-d5f0-45b4-899d-6c22dbfa677c)
+![stock-predict](https://github.com/user-attachments/assets/2b6b83a1-f9af-4eb1-be83-bff10ade97bb)
 
+
+---
 
 #### 기술 스택
 - **프레임워크**: Next.js, Flask
